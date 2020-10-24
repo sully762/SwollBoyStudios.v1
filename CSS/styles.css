@@ -1,0 +1,61 @@
+/* Intro Page */
+
+#intro{
+  text-align: center;
+}
+
+.brand-img{
+  width: 4rem;
+  height: 4rem;
+}
+
+.heading{
+  font-family: "Monofett", sans-serif;
+  font-size:5rem;
+  color:#a89500;
+}
+
+.s-intro{
+  background-color: #BF3111;
+}
+
+.intro-bottom{
+  padding: 80px;
+}
+
+.intro-description{
+  font-family: "Iceland", sans-serif;
+  line-height: 2;
+  font-size: 1.5rem;
+}
+
+.intro-description-heading{
+  font-size: 4rem;
+  font-weight: 900;
+  margin-bottom: 50px;
+}
+
+.helmet-img{
+  width: 300px;
+  height: 300px;
+}
+
+/* Features */
+
+#features{
+  background-color: #474747;
+  text-align: center;
+  font-family: "Iceland", sans-serif;
+  height: 400;
+  padding: 10%;
+}
+
+.features-container h2{
+  font-size: 3.5rem;
+  color: #a89500;
+}
+
+.features-container p{
+  font-size: 1.5rem;
+  color: #BF3111;
+}
